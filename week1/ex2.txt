@@ -1,0 +1,49 @@
+    1  ls
+    2  cd home
+    3  ls
+    4  cd pc
+    5  ls
+    6  cd Documents/
+    7  ls
+    8  cd docker
+    9  ls
+   10  clear
+   11  cd /
+   12  ls
+   13  shh s.dinmuhametov@osc-1.edu.innopolis.ru
+   14  ssh s.dinmuhametov@osc-1.edu.innopolis.ru
+   15  ssh s.dinmukhametov@osc-1.edu.innopolis.ru
+   16  ssh s.dinmuhametov@osc-1.edu.innopolis.ru
+   17  hostmane
+   18  hostname
+   19  whoami
+   20   ls
+   21  cd home
+   22  mkdir ~/week1
+   23  ls
+   24  mkdir week1
+   25  ls
+   26* 
+   27  ls /usr/bin
+   28  ls /usr/bin | grep '*gcc*' | sort -r | cat ;
+   29  ls
+   30  ls /usr/bin | grep '*gcc*' | sort -r | cat ex1.txt
+   31  ls /usr/bin | grep '*gcc*' | sort -r | cat > ex1.txt
+   32  ls
+   33  gedit exi.txt
+   34  vi ex1.txt 
+   35  less ex1.txt 
+   36  cat ex1.txt 
+   37  ls
+   38  ls /usr/bin | grep '*gcc*'
+   39  ls /usr/bin | grep '*'
+   40  ls /usr/bin | grep *
+   41  ls /usr/bin | grep -e  *
+   42* ls /usr/bin | grep -e 
+   43  ls /usr/bin | grep *gcc* | sort -r | cat > ex1.txt
+   44  cat ex1.txt 
+   45  ls /usr/bin | grep gcc
+   46  ls /usr/bin | grep gcc | sort -r | cat > ex1.txt
+   47  less ex1.txt
+   48  cat ex1.txt
+   49  history > ex2.txt
