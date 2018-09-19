@@ -18,10 +18,10 @@ void * thr(int it){
 			h++;
 			is_using=0;
 		}
-/*else{
+		else{
 			sleep(1);
 		}
-*/	}
+	}
 	pthread_exit(NULL);
 }
 
