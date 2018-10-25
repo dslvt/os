@@ -1,0 +1,6 @@
+: no outputs
+
+ans:
+1. read and write for owner
+2. r&w&x for user and group, r&w for other
+3. r&w&x for user, group and other
