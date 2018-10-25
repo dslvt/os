@@ -1,1 +1,1 @@
-0 have 9 link: file1, link1
+0 have 2 link: file1, link1
