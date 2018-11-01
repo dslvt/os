@@ -1,0 +1,4 @@
+3.1:
+	string saved in buffer, when the program forks, new process gets buffer that save in previous. 
+	Then processes prints the \n, the data from buffer writted to I/O stream.
+3.2: output flushed before fork call
