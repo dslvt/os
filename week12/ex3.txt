@@ -1,0 +1,12 @@
+without O_SYNC:
+	real	0.023s
+	user	0.011s
+	sys	    0.012s
+
+with O_SYNC:
+	real	0.059s
+	user	0.011s
+	sys	    0.014s
+
+SYNC is increasing execution time because it is blocking execution time until
+it has complete transfering file.
