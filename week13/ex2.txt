@@ -1,0 +1,3 @@
+Preventing is very good when dont know how resources using.
+Avoidance is not appropriate since we know nothing about processes recources information.
+Recovery is good to interrupt the proccess when we do not predict anything. It using when deadlock occured.
